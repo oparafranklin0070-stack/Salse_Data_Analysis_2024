@@ -27,7 +27,7 @@ This project focuses on analyzing sales data for the month of November and Decem
 
            |Purpose                                                 | Tools/Tech Used                     |
            |--------------------------------------------------------|-------------------------------------|
-           | Data Cleaning, Excel formulas, Pivot tables and Chart  | Excel  (Data Handling)              |                                         |capabilities.                                           |                                     |
+           | Data Cleaning, Excel formulas, Pivot tables and Chart  | Excel (Data Handling)              |                                          |capabilities.                                           |                                     |
            |                                                        |                                     |
            | Dashboard & Visualization, Provide                     | Power BI (Interactive Dashboard)    |
            | dynamic and insightful view, Power BI's DAX for data   |                                     |
