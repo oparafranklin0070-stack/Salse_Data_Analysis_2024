@@ -11,7 +11,7 @@ This project focuses on analyzing sales data for the month of November and Decem
 
 🏆 Identify top-selling products and profitable segments: Determine which products are driving the most revenue and profit.
 
-🔎 Analyze sales trends: (Uncover patterns in sales over time * monthly and seasonal* to predict future performance of products.
+🔎 Analyze sales trends: (Uncover patterns in sales over time *monthly and seasonal* to predict future performance of products.
 
 📈 Evaluate regional performance:* Compare sales performance across different geographic regions to identify area of strength and weekness.
 
@@ -28,6 +28,7 @@ This project focuses on analyzing sales data for the month of November and Decem
            |Purpose                                                 | Tools/Tech Used                     |
            |--------------------------------------------------------|-------------------------------------|
            | Data Cleaning, Excel formulas, Pivot tables and        | Excel  (Data Handling)              |                                         | Chart capabilities.                                    |                                     |
+           |                                                        |                                     |
            | Dashboard & Visualization, Provide                     | Power BI (Interactive Dashboard)    |
            | dynamic and insightful view, Power BI's DAX for data   |                                     |
            | modeling.                                              |                                     |         
