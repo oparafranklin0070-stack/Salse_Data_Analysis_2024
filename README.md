@@ -23,7 +23,7 @@ This project focuses on analyzing sales data for the month of November and Decem
 
 ---
 
-## 🛠️            
+## 🛠️ Tools & Technologies         
 
        |Purpose                                                 | Tools/Tech Used                                  
        |--------------------------------------------------------|----------------------------------|
@@ -32,4 +32,30 @@ This project focuses on analyzing sales data for the month of November and Decem
        | Dashboard & Visualization, Provide                     | Power BI (Interactive Dashboard) |
        | dynamic and insightful view, Power BI's DAX for data   |                                  |
        | modeling.                                              |                                  |         
+
+---
+
+## 🧰 Data & Features
+Source: Kaggle.com
+Rows x Columns: 1,000 rows x 10 columns
+Key Columns:Total Revenue, Order, Avg Order Value, Total Quantity.
+
+---
+
+## 🧹 Methodology (What I did)
+1.  **Data Cleaning & Preparation (Excel):**
+    *   Removing duplicates, handling missing values, and correcting inconsistencies like triming (manager colum)
+    *   Transforming data into a suitable format for analysis (date conversions, data type adjustments).
+    *   Creating calculated columns (weekday, month, weekday).
+2.  **Data Modeling (Power BI):**
+    *   Creating calculated measures using DAX (total revenue, order, average order value,total quantity).
+3.  **Data Analysis & Visualization (Power BI):**
+    *   Creating interactive dashboards to visualize key performance indicators (KPIs) and trends.
+    *   Developing visualizations to compare sales performance across different dimensions such as (product category, region, customers behaviour).
+    *   Conducting in-depth analysis to identify key drivers of sales performance.
+4.  **Insights & Recommendations:**
+    *   Documenting key findings and insights derived from the analysis.
+    *   Formulating actionable recommendations to improve sales performance based on the data-driven insights.
+
+
 
