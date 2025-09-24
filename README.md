@@ -57,5 +57,18 @@ This project focuses on analyzing sales data for the month of November and Decem
     *   Documenting key findings and insights derived from the analysis.
     *   Formulating actionable recommendations to improve sales performance based on the data-driven insights.
 
+---
+
+## 📈 Key Findings
+*   **Top Performing Products:**  Burgers, fries and chicken sandwiches are the top selling products with a contribution to over 80% of overall revenue.
+*   **Sales Trends:**  The month of November recorded to be the highest revenue generating month as it withness it's peak period of over 277k in revenue.
+*   **Regional Performance:**  Regions like Lisbon, London, Madrid are the best performing regions and regions like Berlin and Paris are underperforming regions with reason tied to             customer demographics and purchasing patterns as reasons for the differences.
+*   **Profitability Analysis:**  Products like Burgers 48.99%, fries 16.33% and chicken sandwiches 14.9% are top revenue generating products while regions like Lisbon 31.41%, London            27.45%, and Madrid 17.7% are the top regions with high sales where these revenue were generated from.
+
+  ---
+
+  
+
+
 
 
