@@ -36,9 +36,9 @@ This project focuses on analyzing sales data for the month of November and Decem
 ---
 
 ## 🧰 Data & Features
-Source: Kaggle.com
-Rows x Columns: 1,000 rows x 10 columns
-Key Columns:Total Revenue, Order, Avg Order Value, Total Quantity.
+* Source: Kaggle.com
+* Rows x Columns: 1,000 rows x 10 columns
+* Key Columns:Total Revenue, Order, Avg Order Value, Total Quantity.
 
 ---
 
