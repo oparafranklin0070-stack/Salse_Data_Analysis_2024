@@ -103,7 +103,7 @@ Submit a PR 🚀
 
 --
 
-📄 License
+## 📄 License
 This project is released under the [MIT License] (see LICENSE file).
 Data usage should respect the original dataset’s license.
 
