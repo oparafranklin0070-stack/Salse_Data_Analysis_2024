@@ -101,7 +101,7 @@ Create a new branch 🌿
 Commit your changes 💾
 Submit a PR 🚀
 
---
+---
 
 ## 📄 License
 This project is released under the [MIT License] (see LICENSE file).
